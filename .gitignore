@@ -1,0 +1,14 @@
+# ROS 2 工作空间构建产物，不应纳入版本控制
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 编辑器/系统
+.vscode/
+.idea/
+.DS_Store
